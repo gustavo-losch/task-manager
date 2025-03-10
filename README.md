@@ -2,6 +2,8 @@
 
 This project is a task manager application made for educational learning of React using Vite. This tool provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+![Illustrative Screenshot of the App](/img/screenshot.png)
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
