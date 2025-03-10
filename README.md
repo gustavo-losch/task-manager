@@ -1,6 +1,6 @@
-# React + Vite
+# Task Manager Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a task manager application made for educational learning of React using Vite. This tool provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
@@ -58,4 +58,14 @@ npm install lucide-react
 ```
 
 ---
-1:03:55
+
+**Another technologies used:**
+
+- React Router DOM
+- uuid lib
+
+Run
+```shell
+npm run build
+```
+to make the html build of the application.
